@@ -3,8 +3,8 @@
 
 :root {
     --vermelho-claro: #d796e4;
-    --alto-contraste-fundo: #000000;
-    --alto-contraste-texto: #000000;
+    --alto-contraste-fundo: hsl(0, 0%, 0%);
+    --alto-contraste-texto: #ffffff;
     --alto-contraste-link: #bc71e7;
 }
 
