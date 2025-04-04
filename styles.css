@@ -4,7 +4,7 @@
 :root {
     --vermelho-claro: #d796e4;
     --alto-contraste-fundo: #000000;
-    --alto-contraste-texto: #ffffff;
+    --alto-contraste-texto: #000000;
     --alto-contraste-link: #bc71e7;
 }
 
@@ -126,7 +126,7 @@ h2 {
     /* Espaçamento interno dentro do formulário */
     border-radius: 10px;
     /* Borda arredondada para o formulário */
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 10px rgb(0, 0, 0);
     /* Sombra suave para destacar o formulário */
     font-weight: bold;
 }
